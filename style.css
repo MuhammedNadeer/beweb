@@ -1,0 +1,26 @@
+.navbar-custom {
+    background-color: #b5d4f4!important;
+}   
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 10px;
+}
+.form{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    border: 0px solid black;
+    border-radius: 10px;
+    padding: 10px;
+}
+.center{
+    text-align: center;
+}
+.sub{
+    display: flex;
+    width: max-content;
+    align-self: center;
+}   
